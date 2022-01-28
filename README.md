@@ -1,3 +1,7 @@
-# nextjs-zvngwy
+# Rest API 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nextjs-zvngwy)
+Estou seguindo o vídeo do **Filipe Deschamps** para criar uma `API Rest` do zero. 
+
+Vídeo original: <br /> 
+[Como Fazer Uma API (o jeito mais fácil e moderno que eu já vi)
+](https://youtu.be/f7JWDLFhR_c)
