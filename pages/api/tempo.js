@@ -1,7 +1,6 @@
 async function tempo(req, res) {
   const dynamicDate = new Date();
   const endpoint = process.env.ENDPOINT;
-
   //const gifResponse = await fetch(
   //  'https://api.satou-chan.xyz/api/endpoint/happy'
   //);
